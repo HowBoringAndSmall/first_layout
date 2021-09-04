@@ -455,7 +455,7 @@ body{
 }
 .double_name h2{
     font-size: 18px;
-    padding-right: 200px;
+    padding-top: 15px;
 }
 .double_name h3{
     transform: rotate(-90deg);
@@ -486,6 +486,10 @@ body{
     margin:auto;
     width: 100%;
     max-width:940px;
+}
+.img_man_changer{
+    max-height:387px;
+    overflow:hidden;
 }
 .img_man_container img{
     width: 100%;

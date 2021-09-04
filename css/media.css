@@ -34,6 +34,9 @@
     .gorizont_string{
         display: none;
     }
+    .double_name{
+        max-width: 200px;
+    }
     .his_programms{
         flex-direction: column;
     }
@@ -63,6 +66,9 @@
     }
     .close_line:last-child{
         transform: translateY(-50%) rotate(-45deg);
+    }
+    .img_man_changer{
+        max-height: none;
     }
 }   
 @media screen and (min-width: 581px){
