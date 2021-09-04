@@ -70,7 +70,10 @@
     .img_man_changer{
         max-height: none;
     }
-}   
+    .img_man_changer img{
+        top: 0px;
+    }
+}
 @media screen and (min-width: 581px){
     .menu{
         display: none;
